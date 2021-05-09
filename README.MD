@@ -30,6 +30,10 @@
 
 [SimpleKernel](https://github.com/Simple-XX/SimpleKernel) 正在开发中的内核，可以用来练手
 
+[Tisu OS 太素OS](https://github.com/belowthetree/TisuOS) 一个国内大学生用Rust开发的基于RISC-V的操作系统，能够支持最基本的设备与GUI
+
+[BookOS](https://github.com/hzcx998/BookOS) 基于xbook2内核的C语言操作系统
+
 ### 虚拟机监控器
 
 [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) Rust语言编写的虚拟机监控器，提供设备的热插拔功能，支持跑Linux与Windows虚拟机
@@ -65,6 +69,7 @@
 [How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days)讲述了作者在40天内实现一个C语言编译器的历程
 
 [write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) 一个C语言编译器前端项目，赞的数量比较多
+
 ## 课程
 
 [SJTU-SE-ICS](http://ipads.se.sjtu.edu.cn/courses/ics) **国内计算机教学top level课程**: 上海交通大学软件学院计算机系统基础课程
