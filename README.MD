@@ -6,7 +6,7 @@
 
 [stdrc.cc](https://stdrc.cc/) 最佳计算机学习网站
 
-[yiwenshao](https://yiwenshao.github.io/2018/02/26/CryptDB%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%901-lua%E4%B8%8E%E5%8A%A0%E5%AF%86%E5%BA%93/) 对CryptDB源码的分析可以用来学习
+[知乎专栏:术道经纬](https://zhuanlan.zhihu.com/p/93289632) 文章基本与Linux有关
 
 ## 项目
 
@@ -26,6 +26,10 @@
 
 [unikernel list](http://unikernel.org/projects/) 提供了所有开源uni kernel项目的**列表**，包括Rumprun，Drawbridge等
 
+[risc os](https://gitlab.riscosopen.org/RiscOS) 针对arm的操作系统
+
+[SimpleKernel](https://github.com/Simple-XX/SimpleKernel) 正在开发中的内核，可以用来练手
+
 ### 虚拟机监控器
 
 [ACRN](https://github.com/projectacrn/acrn-hypervisor) 嵌入式领域虚拟机监控器，intel开发，提供实时性，支持跑windows虚拟机，支持设备直通与virtio
@@ -41,6 +45,10 @@
 [Xvisor](https://github.com/xvisor/xvisor) 支持ARM系列平台，RISCV
 
 [bao-hypervisor](https://github.com/bao-project/bao-hypervisor) 轻量级分区虚拟机监控器，支持ARMv8-A与RISC-V，正在开发阶段
+
+### 虚拟机
+
+[dockerrpi](https://github.com/lukechilds/dockerpi) 利用docker与qemu模拟rpi硬件
 
 ### 驱动
 
@@ -89,15 +97,19 @@
 
 [TeachYourselfCS](https://github.com/keithnull/TeachYourselfCS-CN) Github上评价很高的自学教程，有中文翻译
 
+[Writing an OS in Rust](https://os.phil-opp.com/) Rust 写操作系统
+
 #### KVM
 
 [KVM host in a few lines of code](https://zserge.com/posts/kvm/)
 
+[kvm-kernel-example](https://github.com/david942j/kvm-kernel-example) 利用kvm实现虚拟机监控器
+
+[kvm-hello-world](https://github.com/dpw/kvm-hello-world) kvm使用示例
+
 ## 工具
 
 [elixir](https://elixir.bootlin.com/linux/latest/source) Linux源码阅读工具
-
-[教育网漏洞列表](https://src.sjtu.edu.cn/list/firm/3761)
 
 ## 文档
 
