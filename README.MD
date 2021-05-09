@@ -6,6 +6,8 @@
 
 [stdrc.cc](https://stdrc.cc/) 最佳计算机学习网站
 
+[yiwenshao](https://yiwenshao.github.io/2018/02/26/CryptDB%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%901-lua%E4%B8%8E%E5%8A%A0%E5%AF%86%E5%BA%93/) 对CryptDB源码的分析可以用来学习
+
 ## 项目
 
 ### 操作系统
@@ -21,6 +23,8 @@
 [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) 面向物联网的微内核操作系统，C语言编写，处于开发阶段
 
 [armv8-bare-metal](https://github.com/NienfengYao/armv8-bare-metal) 针对ARMv8写的裸金属操作系统，代码很少，适合学习
+
+[unikernel list](http://unikernel.org/projects/) 提供了所有开源uni kernel项目的**列表**，包括Rumprun，Drawbridge等
 
 ### 虚拟机监控器
 
@@ -44,6 +48,11 @@
 
 [circle](https://github.com/rsta2/circle) 支持的驱动比较多
 
+### 编译器
+
+[How I wrote a self-hosting C compiler in 40 days](https://www.sigbus.info/how-i-wrote-a-self-hosting-c-compiler-in-40-days)讲述了作者在40天内实现一个C语言编译器的历程
+
+[write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) 一个C语言编译器前端项目，赞的数量比较多
 ## 课程
 
 [SJTU-SE-ICS](http://ipads.se.sjtu.edu.cn/courses/ics) **国内计算机教学top level课程**: 上海交通大学软件学院计算机系统基础课程
@@ -57,21 +66,38 @@
 [得克萨斯大学奥斯汀分校 CS378](https://www.cs.utexas.edu/~vijay/cs378-f17/) 虚拟化教学课程，课程项目是写一个pv vmm
 
 [cs3210](https://github.com/sslab-gatech/cs3210-rustos-public) rust os, 被南大引入为课程lab
+
+[tinykv](https://github.com/tidb-incubator/tinykv) pingcap 出品的分布式课程
+
+[6.824分布式](http://nil.csail.mit.edu/6.824/2018/schedule.html)
+
+[6.s081操作系统](https://pdos.csail.mit.edu/6.S081/2020/index.html)
+
 ## 论文
 
 [Lightweight Virtualization on Microkernel-based Systems](https://os.inf.tu-dresden.de/papers_ps/liebergeld-diplom.pdf) 微内核架构中轻量级虚拟化，介绍的很详细，名字是Diplomarbeit， 发表于2010年
 
 [Supporting KVM on the ARM architecture](https://lwn.net/Articles/557132/) 来自lwn社区
 
+[分布式系统领域经典论文翻译列表](http://duanple.com/?p=170)
+
 ## 教程
 
-### KVM
+[test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills#simple-questions)
+
+[db-readings](https://github.com/rxin/db-readings) 数据库领域论文列表，由浅入深
+
+[TeachYourselfCS](https://github.com/keithnull/TeachYourselfCS-CN) Github上评价很高的自学教程，有中文翻译
+
+#### KVM
 
 [KVM host in a few lines of code](https://zserge.com/posts/kvm/)
 
 ## 工具
 
 [elixir](https://elixir.bootlin.com/linux/latest/source) Linux源码阅读工具
+
+[教育网漏洞列表](https://src.sjtu.edu.cn/list/firm/3761)
 
 ## 文档
 
@@ -80,3 +106,11 @@
 [Linux启动流程](https://www.kernel.org/doc/Documentation/arm64/booting.txt)
 
 [Linux设备驱动树](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/admin-guide/devices.txt)
+
+[rosettacode](http://rosettacode.org/wiki/Read_entire_file#C.2B.2B)展示基本所有编程语言实现一个操作（比如读文件）所需要的代码，可以用来学习编程语言
+
+## 书籍
+
+[distributed systems for fun and profit](http://book.mixu.net/distsys/intro.html)
+
+[OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) 操作系统领域经典教材
