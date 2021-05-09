@@ -34,6 +34,8 @@
 
 [BookOS](https://github.com/hzcx998/BookOS) 基于xbook2内核的C语言操作系统
 
+[tetris-os](https://github.com/jdah/tetris-os) 一个专门跑俄罗斯方块的操作系统
+
 ### 虚拟机监控器
 
 [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) Rust语言编写的虚拟机监控器，提供设备的热插拔功能，支持跑Linux与Windows虚拟机
