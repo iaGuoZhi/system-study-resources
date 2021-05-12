@@ -8,6 +8,8 @@
 
 [知乎专栏:术道经纬](https://zhuanlan.zhihu.com/p/93289632) 文章基本与Linux有关
 
+[kernelgo](https://kernelgo.org/) KVM相关的介绍值得一看
+
 ## 项目
 
 ### 操作系统
