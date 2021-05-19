@@ -120,6 +120,10 @@
 
 [kvm-hello-world](https://github.com/dpw/kvm-hello-world) kvm使用示例
 
+#### SGX
+
+[SGX 101](https://sgx101.gitbook.io/sgx101/) 学习 Intel SGX 的使用
+
 ## 工具
 
 [elixir](https://elixir.bootlin.com/linux/latest/source) Linux源码阅读工具
