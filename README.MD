@@ -10,6 +10,8 @@
 
 [kernelgo](https://kernelgo.org/) KVM相关的介绍值得一看
 
+[UEFI-BIOS](https://www.zhihu.com/column/UEFIBlog) 介绍UEFI与BIOS的知乎专栏
+
 ## 项目
 
 ### 操作系统
