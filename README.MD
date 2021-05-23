@@ -145,3 +145,5 @@
 [distributed systems for fun and profit](http://book.mixu.net/distsys/intro.html)
 
 [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) 操作系统领域经典教材
+
+系统虚拟化-原理与实现      很好的虚拟化教材，对x86平台虚拟化的设计，实现介绍的非常清楚。
