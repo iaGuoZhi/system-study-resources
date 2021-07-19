@@ -22,6 +22,8 @@
 
 [swim](https://github.com/swimos/swim) 分布式microkernel
 
+[Redox](https://github.com/redox-os/redox) RUST微内核操作系统
+
 [rCore](https://github.com/rcore-os) RUST 操作系统
 
 [SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) 面向物联网的微内核操作系统，C语言编写，处于开发阶段
