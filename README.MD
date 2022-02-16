@@ -42,6 +42,8 @@
 
 [tetris-os](https://github.com/jdah/tetris-os) 一个专门跑俄罗斯方块的操作系统
 
+[managarm](https://github.com/managarm/managarm) 一个C++写的操作系统
+
 ### 虚拟机监控器
 
 [cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) Rust语言编写的虚拟机监控器，提供设备的热插拔功能，支持跑Linux与Windows虚拟机
