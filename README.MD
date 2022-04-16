@@ -74,8 +74,6 @@
 
 [rCore](https://github.com/rcore-os) RUST 操作系统
 
-[SynestiaOS](https://github.com/SynestiaOS/SynestiaOS) 面向物联网的微内核操作系统，C语言编写，处于开发阶段
-
 [armv8-bare-metal](https://github.com/NienfengYao/armv8-bare-metal) 针对ARMv8写的裸金属操作系统，代码很少，适合学习
 
 [unikernel list](http://unikernel.org/projects/) 提供了所有开源uni kernel项目的**列表**，包括Rumprun，Drawbridge等
@@ -86,11 +84,9 @@
 
 [Tisu OS 太素OS](https://github.com/belowthetree/TisuOS) 一个国内大学生用Rust开发的基于RISC-V的操作系统，能够支持最基本的设备与GUI
 
-[BookOS](https://github.com/hzcx998/BookOS) 基于xbook2内核的C语言操作系统
-
 [tetris-os](https://github.com/jdah/tetris-os) 一个专门跑俄罗斯方块的操作系统
 
-[managarm](https://github.com/managarm/managarm) 一个C++写的操作系统
+[managarm](https://github.com/managarm/managarm) 一个modern C++写的操作系统
 
 ### 虚拟机监控器
 
@@ -98,15 +94,7 @@
 
 [firecracker](https://github.com/firecracker-microvm/firecracker) serverless场景中的虚拟机监控器，Rust编写
 
-[ACRN](https://github.com/projectacrn/acrn-hypervisor) 嵌入式领域虚拟机监控器，intel开发，提供实时性，支持跑windows虚拟机，支持设备直通与virtio
-
 [jailhouse](https://github.com/siemens/jailhouse) 支持跑Linux虚拟机，关于ARM硬件虚拟化的代码可以用来参考
-
-[integrity multivisor](https://www.ghs.com/products/rtos/integrity_virtualization.html) 日本green hills公司面向物联网行业制作的虚拟机监控器
-
-[NOVA Microhypervisor](https://hypervisor.org/)针对x86平台的虚拟机监控器， 来自学术界
-
-[khypervisor](https://github.com/kesl/khypervisor)基于ARMv7的虚拟机监控器，已经停止更新
 
 [Xvisor](https://github.com/xvisor/xvisor) 支持ARM系列平台，RISCV
 
