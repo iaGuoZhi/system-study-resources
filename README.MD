@@ -22,15 +22,43 @@
 
 ## 博客
 
-[LoyenWang](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.cnblogs.com%2FLoyenWang%2F) Linux（内核，PCI驱动），Kvm（中断虚拟化，virtio）源码分析讲的很清晰
+[**LoyenWang**](https://links.jianshu.com/go?to=https%3A%2F%2Fwww.cnblogs.com%2FLoyenWang%2F) Linux（内核，PCI驱动），Kvm（中断虚拟化，virtio）源码分析讲的很清晰
 
-[stdrc.cc](https://stdrc.cc/) RC的博客质量都很高
+[**stdrc.cc**](https://stdrc.cc/) RC的博客质量都很高
 
-[知乎专栏:术道经纬](https://zhuanlan.zhihu.com/p/93289632) 文章基本与Linux有关
+[**知乎专栏:术道经纬**](https://zhuanlan.zhihu.com/p/93289632) 文章基本与Linux有关
 
 [kernelgo](https://kernelgo.org/) KVM相关的介绍值得一看
 
 [UEFI-BIOS](https://www.zhihu.com/column/UEFIBlog) 介绍UEFI与BIOS的知乎专栏
+
+[Ahao Mu](https://muahao.github.io/) 内核调试技巧
+
+[SToPire](https://stopire.github.io/archives/) Linux/KVM 源码分析
+
+[计算机系统会议论文](https://www.zhihu.com/column/c_1424714267832967169) 系统顶会论文分析
+
+[linuxperf](http://linuxperf.com/) 内核性能调优
+
+[DPDK](http://blog.chinaunix.net/uid-28541347-id-5830937.html) 很多关于DPDK的文章
+
+[QEMU](https://www.hanbaoying.com/2017/04/07/qemu-hot-migration.html) QEMU使用与代码分析
+
+[LLVM](https://hujun1413.github.io/2017/01/15/OSLab/LLVM/6.LLVM%E7%9A%84%E7%BC%96%E7%A8%8B%E6%8A%80%E5%B7%A7/)
+
+[Just for fun](https://www.zhihu.com/column/c_1356539764733218816) 内核子系统分析
+
+[OpenEuler](https://www.zhihu.com/column/openEuler-serial) 关于Linux的知识连载
+
+[河马虚拟化](https://www.zhihu.com/column/c_1040263672760885248) 虚拟化知识
+
+[操作系统史话](https://www.zhihu.com/column/c_1392071673210834944) 操作系统考古
+
+[美团技术](https://tech.meituan.com/) 互联网大厂中技术知识输出做的最好的
+
+[wangzhou](https://wangzhou.github.io/) 内核，虚拟化
+
+[sjtug](https://github.com/sjtug/sharing) 交大sjtug的知识分享
 
 ## 项目
 
